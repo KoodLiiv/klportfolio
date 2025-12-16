@@ -1,4 +1,4 @@
-import Link from 'next/link'
+git import Link from 'next/link'
 
 export default function Footer() {
   const currentYear = new Date().getFullYear()
@@ -41,7 +41,7 @@ export default function Footer() {
             <h4 className="text-lg font-semibold text-luxury-gold mb-4">Connect</h4>
             <div className="flex space-x-4">
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/kristen-liivrand/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-luxury-gold transition-colors"
@@ -52,7 +52,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/KoodLiiv"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-luxury-gold transition-colors"
