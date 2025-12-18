@@ -9,10 +9,10 @@ export default function Header() {
   const navigation = [
     { name: 'Home', href: '/' },
     { name: 'About', href: '/about' },
-    { name: 'Case Studies', href: '#case-studies' },
-    { name: 'AI Lab', href: '#ai-lab' },
-    { name: 'Technical', href: '#technical' },
-    { name: 'Contact', href: '#contact' },
+    { name: 'Case Studies', href: '/#case-studies' },
+    { name: 'AI Lab', href: '/#ai-lab' },
+    { name: 'Technical', href: '/#technical' },
+    { name: 'Contact', href: '/#contact' },
   ]
 
   return (
