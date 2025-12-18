@@ -28,7 +28,7 @@ export default function TechnicalProjects() {
   return (
     <section id="technical" className="py-20 bg-black text-white px-6">
       <div className="max-w-6xl mx-auto">
-        <h2 className="text-4xl font-bold mb-4 text-center gradient-text font-serif">Technical Projects</h2>
+        <h2 className="text-4xl font-bold mb-4 text-center gradient-text font-serif">Technical Experience</h2>
         <p className="text-gray-400 text-center mb-12 max-w-2xl mx-auto">
           Selected engineering tasks from kood/sisu. Focused on high-performance backend logic and scalable system architecture.
         </p>
