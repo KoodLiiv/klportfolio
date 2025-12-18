@@ -53,53 +53,50 @@ export default function DMSPCaseStudy() {
 
           {/* Header */}
           <header className="mb-12">
-            <div className="text-luxury-gold text-sm font-semibold mb-4">
-              CASE STUDY / GLOBAL SEO
-            </div>
-            <h1 className="text-5xl font-bold mb-6 font-serif gradient-text">
-              DMSP
-            </h1>
-            <p className="text-xl text-gray-300 leading-relaxed">
-              Implementing enterprise-level international SEO architecture with hreflang 
-              optimization, multi-regional content strategy, and scalable technical infrastructure.
-            </p>
-          </header>
+  <div className="text-luxury-gold text-sm font-semibold mb-4">
+    CASE STUDY / AGENCY LEADERSHIP
+  </div>
+  <h1 className="text-5xl font-bold mb-6 font-serif gradient-text">
+    DMSP
+  </h1>
+  <p className="text-xl text-gray-300 leading-relaxed">
+    Founded and scaled a digital agency serving the EU, Dubai and Americas. Bridging the gap 
+    between traditional SEO and modern performance engineering through omnichannel visibility.
+  </p>
+</header>
 
           {/* Key Metrics */}
           <div className="grid md:grid-cols-3 gap-6 mb-12 p-8 bg-gradient-to-br from-gray-900 to-black border border-gray-800 rounded-xl">
-            <div className="text-center">
-              <div className="text-4xl font-bold text-luxury-gold mb-2">Top 3</div>
-              <div className="text-gray-400">Global Rankings</div>
-            </div>
-            <div className="text-center">
-              <div className="text-4xl font-bold text-luxury-gold mb-2">25+</div>
-              <div className="text-gray-400">Countries</div>
-            </div>
-            <div className="text-center">
-              <div className="text-4xl font-bold text-luxury-gold mb-2">12</div>
-              <div className="text-gray-400">Languages</div>
-            </div>
-          </div>
+  <div className="text-center">
+    <div className="text-4xl font-bold text-luxury-gold mb-2">EU & AM</div>
+    <div className="text-gray-400">Global Markets</div>
+  </div>
+  <div className="text-center">
+    <div className="text-4xl font-bold text-luxury-gold mb-2">Omnichannel</div>
+    <div className="text-gray-400">Visibility Strategy</div>
+  </div>
+  <div className="text-center">
+    <div className="text-4xl font-bold text-luxury-gold mb-2">100/100</div>
+    <div className="text-gray-400">Target Performance</div>
+  </div>
+</div>
 
           {/* Content Sections */}
           <div className="space-y-12">
             <section>
               <h2 className="text-3xl font-bold mb-4 text-luxury-gold font-serif">
-                The Challenge
+                The Growth
               </h2>
               <div className="text-gray-300 leading-relaxed space-y-4">
                 <p>
-                  DMSP required a comprehensive global SEO strategy to establish presence 
-                  across 5+ countries and 3 languages. The project demanded enterprise-level 
-                  technical architecture capable of handling complex international requirements 
-                  while maintaining exceptional performance and user experience.
+                 As the founder of DMSP, I assisted global clients in establishing their digital footprint. 
+                  While we achieved significant visibility through traditional tools, I identified a critical 
+                  performance ceiling in standard CMS architectures—often resulting in sub-optimal Core Web Vitals.
                 </p>
                 <ul className="list-disc list-inside space-y-2 ml-4">
-                  <li>Complex multi-regional site architecture</li>
-                  <li>Need for scalable hreflang implementation</li>
-                  <li>Cultural and linguistic content adaptation</li>
-                  <li>Performance optimization across global CDN</li>
-                  <li>Regional search engine variations</li>
+                  <li>Helped EU brands localize for the Americas.</li>
+                  <li>Leveraging social media channels to boost brand authority and Google visibility.</li>
+                  <li>Transitioning from legacy stacks to high-performance coding to ensure 100/100 SEO scores.</li>
                 </ul>
               </div>
             </section>
@@ -128,14 +125,13 @@ export default function DMSPCaseStudy() {
                   </div>
                   <div className="p-6 bg-gray-900 rounded-lg border border-gray-800">
                     <h3 className="font-bold text-lg mb-3 text-luxury-platinum">
-                      Content & Strategy
+                      Performance Engineering 
                     </h3>
                     <ul className="text-sm space-y-2 text-gray-400">
-                      <li>• 12-language content framework</li>
-                      <li>• Cultural adaptation strategy</li>
-                      <li>• Regional keyword research</li>
-                      <li>• Local link building campaigns</li>
-                      <li>• Market-specific optimization</li>
+                      <li>• Transitioning legacy stacks to Next.js for sub-second speeds.</li>
+                      <li>• Connecting social signals to search authority.</li>
+                      <li>• Minimizing global latency for international clients.</li>
+                      <li>• Continuous Core Web Vitals monitoring.</li>
                     </ul>
                   </div>
                 </div>
@@ -149,20 +145,18 @@ export default function DMSPCaseStudy() {
               <div className="space-y-6">
                 <div className="p-6 bg-gradient-to-r from-gray-900 to-black border-l-4 border-luxury-gold rounded">
                   <h3 className="font-bold text-lg mb-2 text-luxury-platinum">
-                    Hreflang Architecture
+                    Technical Pivot 
                   </h3>
                   <p className="text-gray-400 text-sm">
-                    Implemented a robust hreflang system managing 25+ regional variants with 
-                    automated validation and monitoring to ensure correct language-region targeting.
+                    Faced with a 37/100 performance on. legacy CMS platforms. When moved toward a code-first approach and mastering Next.js & Vercel, i now engineer sites that maintain 100/100 Lighthouse scores.
                   </p>
                 </div>
                 <div className="p-6 bg-gradient-to-r from-gray-900 to-black border-l-4 border-luxury-gold rounded">
                   <h3 className="font-bold text-lg mb-2 text-luxury-platinum">
-                    Performance Optimization
+                    Social Search Synergy
                   </h3>
                   <p className="text-gray-400 text-sm">
-                    Achieved 100% Core Web Vitals across all regions through strategic CDN 
-                    configuration, image optimization, and edge computing implementation.
+                    Developed a "Visibility loop" where social media strategies were engineered to trigger Google's brand authority signals, significantly boosting organic rankings for DMSP and Clients.
                   </p>
                 </div>
                 <div className="p-6 bg-gradient-to-r from-gray-900 to-black border-l-4 border-luxury-gold rounded">
@@ -183,21 +177,16 @@ export default function DMSPCaseStudy() {
               </h2>
               <div className="text-gray-300 leading-relaxed space-y-4">
                 <p>
-                  The enterprise-level SEO implementation delivered measurable results across 
-                  all target markets:
+                  Helped clients in EU and Dubai based markets in a high-competition markets.
                 </p>
                 <ul className="space-y-3">
                   <li className="flex items-start">
                     <span className="text-luxury-gold mr-3">✓</span>
-                    <span><strong>Top 3 rankings</strong> for primary keywords in 25+ countries</span>
+                    <span><strong>100/100 SEO Baseline</strong> Established a new technical standard, moving from legacy scores to perfect performance.</span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-luxury-gold mr-3">✓</span>
-                    <span><strong>12 languages</strong> fully optimized and performing</span>
-                  </li>
-                  <li className="flex items-start">
-                    <span className="text-luxury-gold mr-3">✓</span>
-                    <span><strong>Zero hreflang errors</strong> with automated monitoring</span>
+                    <span><strong>Integrated Automation</strong> SEO + Email workflows.</span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-luxury-gold mr-3">✓</span>
@@ -216,7 +205,7 @@ export default function DMSPCaseStudy() {
                 Technologies & Tools
               </h2>
               <div className="flex flex-wrap gap-3">
-                {['Next.js', 'Hreflang', 'CDN', 'Schema.org', 'Core Web Vitals', 'International SEO', 'i18n', 'Analytics'].map((tech) => (
+                {['Next.js', 'Hreflang', 'CDN', 'Schema.org', 'Go', 'Core Web Vitals', 'International SEO', 'Analytics'].map((tech) => (
                   <span
                     key={tech}
                     className="px-4 py-2 bg-gray-900 text-gray-300 rounded-lg border border-gray-800"

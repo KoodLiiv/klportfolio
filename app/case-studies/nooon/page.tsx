@@ -72,7 +72,7 @@ export default function NooonCaseStudy() {
               <div className="text-gray-400">Organic Traffic Growth</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold text-luxury-gold mb-2">15+</div>
+              <div className="text-4xl font-bold text-luxury-gold mb-2">5+</div>
               <div className="text-gray-400">International Markets</div>
             </div>
             <div className="text-center">
@@ -118,7 +118,7 @@ export default function NooonCaseStudy() {
                       Technical SEO
                     </h3>
                     <ul className="text-sm space-y-2 text-gray-400">
-                      <li>• Hreflang implementation across 15 markets</li>
+                      <li>• Hreflang implementation across 5 markets</li>
                       <li>• Core Web Vitals optimization</li>
                       <li>• Structured data for rich snippets</li>
                       <li>• International site architecture</li>
@@ -159,7 +159,7 @@ export default function NooonCaseStudy() {
                   </li>
                   <li className="flex items-start">
                     <span className="text-luxury-gold mr-3">✓</span>
-                    <span><strong>15 international markets</strong> with top 10 rankings</span>
+                    <span><strong>5 international markets</strong> EU/America</span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-luxury-gold mr-3">✓</span>
