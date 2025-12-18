@@ -28,14 +28,14 @@ const caseStudies: CaseStudy[] = [
   },
   {
     id: 'dmsp',
-    title: 'DMSP - Global SEO Strategy',
+    title: 'DMSP - Agency Leadership',
     category: 'Global SEO',
-    description: 'Implemented enterprise-level international SEO architecture with hreflang optimization, multi-regional content strategy, and technical infrastructure.',
+    description: 'Founded and scaled a digital agency serving the EU, Dubai and Americas. Bridging the gap between traditional SEO and modern performance engineering through omnichannel visibility.',
     tags: ['Enterprise SEO', 'Hreflang', 'Multi-regional', 'Technical'],
     metrics: [
-      { label: 'Global Rankings', value: 'Top 3' },
-      { label: 'Countries', value: '5+' },
-      { label: 'Languages', value: '3' },
+      { label: 'Global Markets', value: 'EU & AM' },
+      { label: 'Visibility Strategy', value: 'Omnichannel' },
+      { label: 'Target Performance', value: '100/100' },
     ]
   }
 ]
