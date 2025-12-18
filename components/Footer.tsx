@@ -67,7 +67,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t border-gray-800 text-center text-gray-400 text-sm">
-          <p>&copy; {currentYear} Professional Portfolio. Built with Next.js 14 & Tailwind CSS.</p>
+          <p>&copy; {currentYear} Kristen Liivrand. All rights reserved.</p>
         </div>
       </div>
     </footer>
