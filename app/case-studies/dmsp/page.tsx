@@ -90,7 +90,7 @@ export default function DMSPCaseStudy() {
               <div className="text-gray-300 leading-relaxed space-y-4">
                 <p>
                   DMSP required a comprehensive global SEO strategy to establish presence 
-                  across 25+ countries and 12 languages. The project demanded enterprise-level 
+                  across 5+ countries and 3 languages. The project demanded enterprise-level 
                   technical architecture capable of handling complex international requirements 
                   while maintaining exceptional performance and user experience.
                 </p>

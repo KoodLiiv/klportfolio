@@ -22,7 +22,7 @@ const caseStudies: CaseStudy[] = [
     tags: ['Technical SEO', 'International', 'SaaS', 'Hospitality'],
     metrics: [
       { label: 'Organic Traffic', value: '+250%' },
-      { label: 'International Markets', value: '15+' },
+      { label: 'International Markets', value: '5+' },
       { label: 'Core Web Vitals', value: '100%' },
     ]
   },
@@ -34,8 +34,8 @@ const caseStudies: CaseStudy[] = [
     tags: ['Enterprise SEO', 'Hreflang', 'Multi-regional', 'Technical'],
     metrics: [
       { label: 'Global Rankings', value: 'Top 3' },
-      { label: 'Countries', value: '25+' },
-      { label: 'Languages', value: '12' },
+      { label: 'Countries', value: '5+' },
+      { label: 'Languages', value: '3' },
     ]
   }
 ]
